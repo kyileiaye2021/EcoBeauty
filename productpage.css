@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/eco-friendly-beauty-products-natural-organic-bathroom-tools-no-plastic-free-life-ecological-skin-care-body-treatment-eco-friendly-207492411.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button{
+    background-color: black;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    width:auto;
+    text-align: right;
+}

@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://www.sustainablejungle.com/wp-content/uploads/2022/11/Natural-Skin-Care-Ingredients.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+    display: block;
+}
+
+p{
+    background-color:azure;
+    width: 350px;
+    border: 1px solid black;
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+    cursor: pointer;
+    text-align: center;
+}
+
+button{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 14px 20px;
+    margin-right:auto ;
+    margin-left: auto;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    width:auto;
+}

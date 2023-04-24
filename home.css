@@ -1,0 +1,44 @@
+body{
+    background-image: url(https://cdn.mos.cms.futurecdn.net/anD4JtcR4Wi6UY5dJJ4F4i-1920-80.png.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.note{
+    font-weight: lighter;
+    font-size: 15px;
+    background-color: pink;
+    text-align: center;
+}
+
+button{
+    background-color:antiquewhite;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    width:auto;
+    text-align: right;
+}
+
+div{
+    text-align: right;
+    border: 0;
+    display: block;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 100px;
+    text-align: center;
+    margin:0;
+}
+
+p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 50px;
+}

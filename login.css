@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://thumbs.dreamstime.com/z/beauty-background-facial-cosmetic-products-eco-friendly-cosmetic-skin-care-products-massager-facial-oil-handmade-soap-184477059.jpg);
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+button{
+    background-color:antiquewhite;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    width:auto;
+    text-align: right;
+}
+
+p{
+    background-color:azure;
+    width: 350px;
+    border: 1px solid black;
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+    cursor: pointer;
+}
+
+
+div{
+    text-align: center;
+    display: block;
+}
